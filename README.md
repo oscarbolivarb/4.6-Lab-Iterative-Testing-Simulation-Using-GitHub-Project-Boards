@@ -9,7 +9,7 @@ By the final iteration, the main focus shifted towards regression testing and va
 
 This type of testing progression supports continuous delivery because testing happens throughout development instead of only being at the end. By testing the system continuously as it grows, any issue can be found earlier and the software becomes more stable as well as more reliable as new features are added later. 
 
-Reference 
+References 
 
 Baresi, L. & Pezze, M. (2006). An Introduction to Software Testing. ScienceDirect. https://doi.org/10.1016/j.entcs.2005.12.014
 Hellmann, T. D., Sharma, A., Ferreira, J. & Maurer, F. (2012). Agile Testing: Past, Present, and Future -- Charting a Systematic Map of Testing in Agile Software Development. IEEE. https://doi.org/10.1109/Agile.2012.8
